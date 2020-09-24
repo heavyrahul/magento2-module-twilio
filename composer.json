@@ -2,7 +2,7 @@
     "name": "markshust/magento2-module-twilio",
     "description": "The Twilio module sends SMS messages in response to Magento events.",
     "require": {
-        "php": "^7.1",
+        "php": "^7.3",
         "magento/framework": "^101"
     },
     "type": "magento2-module",
